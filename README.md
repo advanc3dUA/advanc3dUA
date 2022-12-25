@@ -1,6 +1,14 @@
 ### Hi there 👋
+<!--, my name is Yuriy Gudimov (🙊💻🍺🕹️)
 
-<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37F71A&width=435&lines=I'm+self-made+Mobile+Dev;Joking.+I'm+master+in+Comp+Science;Hardworking+and+cheerful+guy)](https://git.io/typing-svg)
+---
+![](https://komarev.com/ghpvc/?username=advanc3dUA&color=ff69b4)
+
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/advanc3d)
+[![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gudimovyuriy@gmail.com)
+
+
 **advanc3dUA/advanc3dUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
