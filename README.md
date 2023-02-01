@@ -33,7 +33,10 @@
 
 ## 🤟 In process:
 * Combine
-  * Here are my first example projects: [SignUp page](https://github.com/advanc3dUA/SignUpFormExample) & [Dice randomizer](https://github.com/advanc3dUA/ExampleApp-HandlingErrors).
+
+Here are my first example projects: 
+* [SignUp page](https://github.com/advanc3dUA/SignUpFormExample)
+* [Dice randomizer](https://github.com/advanc3dUA/ExampleApp-HandlingErrors)
 
 ## 👨‍💻 Github stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=advanc3dUA&hide=prs,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
