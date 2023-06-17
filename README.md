@@ -31,12 +31,8 @@
   * SDWebImage
   * and more.
 
-## 🤟 In process:
-* Combine
-
-Here are my first example projects: 
-* [SignUp page](https://github.com/advanc3dUA/SignUpFormExample)
-* [Dice randomizer](https://github.com/advanc3dUA/ExampleApp-HandlingErrors)
+## 🤟 My news:
+[17.06.23] I've started my half-year B1 German course. Every day Deutsch lernen - there is not much time & force left for coding. But I am trying to feel the gaps in my knowledge of Swift concurrency and other stuff. My latest WohnungSuchen app (you can find it in my repos) has good feedback from users. It helped me and I hope will help more people to find an apartment in Hamburg. Stay tuned for updates!
 
 ## 👨‍💻 Github stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=advanc3dUA&hide=prs,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
