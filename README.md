@@ -6,33 +6,32 @@
 ## 🙈 General information:
 * I had decided to become a mobile developer and started my way from early 2022
 * Master's degree in computer systems & networks
-* 500+ hours of studying in 2022
-* Currently looking for a job as Junior/Trainee Swift (iOS) developer
+* Spent 1000+ hours studying and practicing Swift from 2022 and still developing my skills
+* My latest app, where I use the newest techniques of SwiftUI and async\await, is currently in Testflight and already has helped a lot of people
+* My native language is Ukrainian but I speak English (B2). Außerdem habe ich gerade B1 Prüfung bestanden and jetzt teilnehme ich an einem B2 Kurs
+* I am open to any opportunity and hope to start my career as Junior/Trainee Swift (iOS) developer soon!
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## ✅ Already familiar with:
 * Core technologies & technics:
   * UIKit
+  * SwiftUI
+  * Combine
   * CoreData
   * CoreAnimations
   * CoreML
-  * ARC
-  * GCD
-  * Networking w/ default methods
-  * MVC
-  * Git & Github
-  * Patterns like Singleton, Delegate, Command, Observer, Adapter, Builder(s) etc.
+  * GCD, async/await
+  * Networking
+  * GitHub
 * 3rd party:
-  * Alamofire, SwiftyJSON
+  * Alamofire
+  * Vapor, Fluent, SWiftSoup, MySQL, APNS
   * SnapKit
   * Realm
   * Firebase
-  * SDWebImage
+  * SwiftyJSON
   * and more.
-
-## 🤟 My news:
-[17.06.23] I've started my half-year B1 German course. Every day Deutsch lernen - there is not much time & force left for coding. But I am trying to feel the gaps in my knowledge of Swift concurrency and other stuff. My latest WohnungSuchen app (you can find it in my repos) has good feedback from users. It helped me and I hope will help more people to find an apartment in Hamburg. Stay tuned for updates!
 
 ## 👨‍💻 Github stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=advanc3dUA&hide=prs,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -41,7 +40,8 @@
 
 ## ✉️ Contacts:
 
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/advanc3d) [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gudimovyuriy@gmail.com)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/advanc3d) [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gudimovyuriy@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/yuriy-gudimov-6b14532bb/)
 
 <!--**advanc3dUA/advanc3dUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
