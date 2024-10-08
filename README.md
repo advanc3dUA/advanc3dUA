@@ -8,8 +8,8 @@
 * Master's degree in computer systems & networks
 * Spent 1000+ hours studying and practicing Swift from 2022 and still developing my skills
 * My latest app, where I use the newest techniques of SwiftUI and async\await, is currently in Testflight and already has helped a lot of people
-* My native language is Ukrainian but I speak English (B2). Außerdem habe ich gerade B1 Prüfung bestanden and jetzt teilnehme ich an einem B2 Kurs
-* I am open to any opportunity and hope to start my career as Junior/Trainee Swift (iOS) developer soon!
+* My native language is Ukrainian but I speak English (C1) too. Außerdem habe ich gerade B2 Prüfung bestanden, deshalb denke ich, dass ich auch bereit bin, sich dem deutschen Team anzuschließen
+* I am open to any opportunity and hope to start my career as Junior Swift (iOS) developer soon!
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -41,7 +41,7 @@
 ## ✉️ Contacts:
 
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/advanc3d) [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gudimovyuriy@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/yuriy-gudimov-6b14532bb/)
+)](https://www.linkedin.com/in/yuriy-gudimov)
 
 <!--**advanc3dUA/advanc3dUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
