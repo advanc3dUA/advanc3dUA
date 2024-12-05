@@ -1,4 +1,4 @@
-### Hi there, I'm Yuriy Gudimov 👋🤗✌️
+### Hi there, I'm Yuriy 👋🤗✌️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F79E&width=435&lines=I+am+a+Mobile+Dev;Hardworking+and+cheerful+guy;Welcome+to+my+page!)](https://git.io/typing-svg)
 
