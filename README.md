@@ -4,21 +4,23 @@
 
 ![](https://komarev.com/ghpvc/?username=advanc3dUA&color=ff69b4)
 ## 🙈 General information:
-* I had decided to become a mobile developer and started my way from early 2022
-* Master's degree in computer systems & networks
-* Spent 1000+ hours studying and practicing Swift from 2022 and still developing my skills
-* My latest app, where I use the newest techniques of SwiftUI and async\await, is currently in Testflight and already has helped a lot of people
+* I decided to become a mobile developer and started my way in mid-2021 and have more than 3 years of experience
+* Master's degree in computer systems & networks and more than 5 years of experience in this role
+* Here you can find various of my pet- and education projects
 * My native language is Ukrainian but I speak English (C1) too. Außerdem habe ich gerade B2 Prüfung bestanden, deshalb denke ich, dass ich auch bereit bin, sich dem deutschen Team anzuschließen
-* I am open to any opportunity and hope to start my career as Junior Swift (iOS) developer soon!
+* In open to work status. Feel free to contact
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## ✅ Already familiar with:
+## ✅ My technical stack:
 * Core technologies & technics:
   * UIKit
   * SwiftUI
   * Combine
+  * SwiftData
   * CoreData
+  * XCTests
+  * AVFoundation
   * CoreAnimations
   * CoreML
   * GCD, async/await
@@ -31,6 +33,7 @@
   * Realm
   * Firebase
   * SwiftyJSON
+  * SwiftLint
   * and more.
 
 ## 👨‍💻 Github stats:
